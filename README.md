@@ -110,3 +110,4 @@ If you have any suggestions for me related to this project, feel free to contact
 
 ## License 📝:
 This project is licensed under the <a href="https://github.com/SINGHxTUSHAR/DeepEye/blob/main/LICENSE">MIT License</a> - see the LICENSE file for details.
+# Maintained by atbannawazish
