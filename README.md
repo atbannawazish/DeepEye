@@ -85,7 +85,7 @@ pip install -r requirement.txt
 
 - Clone the repository:
 ```bash
-git clone https://github.com/SINGHxTUSHAR/DeepEye.git
+git clone https://github.com/atbannawazish/DeepEye.git
 cd DeepEye
 ```
 - Create a virtual environment (optional but recommended):
